@@ -1,20 +1,17 @@
-Hi, my name is juan Porcile and i'm a Junior web developer. Usually working on this technologies:
-
-    HTML
-    CSS
-    Bootstrap
-    JavaScript
-    Python
-    React
-    Flask
-    SqlAlchemy
+## Hi, my name is Juan Porcile and i'm a Junior web developer. Usually working on this technologies:
+  - HTML
+  - CSS
+  - Bootstrap
+  - JavaScript
+  - React
+  - Python
+  - Flask
+  - SqlAlchemy
+## I'm also an Electronics Technician, and i've worked in:
+  - Arduino
+  - PC HardWare
+## Currently Working On:
+  - 🔭 I’m currently working on a Portfolio(coming soon).
   
-I'm also an Electronics Technician, and i've worked in:
-
-    Arduino
-    PC hardware
-    
-And also doing LeetCode Algorithms Exercises
-
-
-📫 How to reach me: zavala.juanep@gmail.com
+  - 🌱 And also doing LeetCode <ins>**Algorithms**</ins> Exercises
+  - 📫 <ins>**How to reach me:**</ins> zavala.juanep@gmail.com
