@@ -12,7 +12,7 @@ I am a junior web developer from the <a href="https://4geeks.com/" target="blank
 
 - 📫 How to reach me **zavala.juanep@gmail.com**
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="230" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
